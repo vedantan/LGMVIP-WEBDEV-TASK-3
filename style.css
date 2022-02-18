@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(250, 215, 222);
+    text-align: center;
+}
+
+.h3{
+	text-align: center;
+	padding: auto;
+}
+
+table{
+	margin-top: 50px;
+	text-align: center;
+	background: rgb(248, 248, 248);
+	color: rgb(0, 0, 0);
+}
+
+
+#show th, #show td{
+	padding: 13px;
+}
+
+#btna td input{
+	width: 100%;
+}
